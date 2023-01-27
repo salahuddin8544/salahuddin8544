@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQHTftxukl-ARg/profile-displaybackgroundimage-shrink_350_1400/0/1670479046959?e=1680134400&v=beta&t=drdTnknKVJccVoSkdwiYMnl0OUT5bGVCw5zSqPvTe8o" alt="image" />
 
-<h1 align="center">Hi 👋, I'm Salah Uddin</h1>
-<h3 align="center">Web Developer</h3>
+<h1>Hi 👋, I'm Salah Uddin</h1>
+<h3">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahuddinahmed8544&label=Profile%20views&color=0e75b6&style=flat" alt="salahuddinahmed8544" /> </p>\
 
