@@ -1,7 +1,9 @@
+<img src="https://media.licdn.com/dms/image/D5616AQHTftxukl-ARg/profile-displaybackgroundimage-shrink_350_1400/0/1670479046959?e=1680134400&v=beta&t=drdTnknKVJccVoSkdwiYMnl0OUT5bGVCw5zSqPvTe8o" alt="image" />
+
 <h1 align="center">Hi 👋, I'm Salah Uddin</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahuddinahmed8544&label=Profile%20views&color=0e75b6&style=flat" alt="salahuddinahmed8544" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahuddinahmed8544&label=Profile%20views&color=0e75b6&style=flat" alt="salahuddinahmed8544" /> </p>\
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahuddinahmed8544" alt="salahuddinahmed8544" /></a> </p>
 
